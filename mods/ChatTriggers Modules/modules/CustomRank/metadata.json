@@ -1,0 +1,8 @@
+{
+  "name":"CustomRank",
+  "description":"Shit module, shit idea, shit shit.",
+  "author": "Heknon",
+  "requires":["SettingsManager"],
+  "version":"1.5",
+  "entry":"index.js"
+}

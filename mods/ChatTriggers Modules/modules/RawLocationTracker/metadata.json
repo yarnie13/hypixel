@@ -1,0 +1,7 @@
+{
+  "name":"RawLocationTracker",
+  "description":"Removes the boiler plate of running /rawloc and parsing it to get a player's exact location on hypixel",
+  "author": "Heknon",
+  "entry": "locationTracker.js",
+  "requires":[]
+}

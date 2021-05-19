@@ -1,0 +1,7 @@
+{
+  "name":"BedwarsStats",
+  "description":"View BedwarsStats of players",
+  "author": "Heknon",
+  "entry": "index.js",
+  "requires":["SettingsManager", "slothpixel", "RawLocationTracker"]
+}

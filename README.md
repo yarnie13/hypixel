@@ -18,13 +18,14 @@ Script | Purpose
 AutoGG | Automatically types "gg" in chat at the end of a game
 Optifine | Adds a zoom feature, adds more customisable graphics settings, reduces lag. *Note: Optifine can be run without Forge* 
 Quickplay | Press hotkey `<RShift>` to show a menu used to easily navigate directly into a desired game
-Vanilla Enhancements | See CurseForge page for more information  
-Chat triggers | See ChatTriggers page for more information
+Vanilla Enhancements | See [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/vanilla-enhancements) for more information  
+Chat triggers | See [ChatTriggers page](https://www.chattriggers.com/) for more information
 
 ## TO-DO
 - [ ] Add more detailed explanations
 - [ ] Add more mods
 - [ ] Develop more useful ahk scripts
-- [ ] Add link to Vanilla Enchancements page
-- [ ] Add link to ChatTriggers page
+- [x] Add link to Vanilla Enchancements page
+- [x] Add link to ChatTriggers page
 - [ ] Determine which ChatTriggers modules I use
+

@@ -1,0 +1,6 @@
+{
+    "name": "F5 Crosshair",
+    "creator": "MLG_Herobrine",
+    "description": "Removes crosshair in f5.",
+    "entry": "index.js"
+  }

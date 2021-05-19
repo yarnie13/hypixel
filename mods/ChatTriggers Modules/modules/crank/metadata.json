@@ -1,0 +1,7 @@
+{
+    "auther":"kerbybit",
+    "description":"/crank",
+    "version":"1.2.0",
+    "entry":"index.js",
+    "requires":["Elementa", "PersistentData"]
+}

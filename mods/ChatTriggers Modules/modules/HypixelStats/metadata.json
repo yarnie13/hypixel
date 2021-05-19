@@ -1,0 +1,7 @@
+{
+  "name":"&aHypixelStats",
+  "description":"&eIn-Game Stats Commands for BedWars, SkyWars, and Duels. &a/statshelp&e to start.",
+  "entry": "index.js",
+  "version": "0.0.3",
+  "requires": ["request V2","RawLocationTracker"]
+}
