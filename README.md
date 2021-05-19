@@ -27,5 +27,7 @@ Chat triggers | See [ChatTriggers page](https://www.chattriggers.com/) for more 
 - [ ] Develop more useful ahk scripts
 - [x] Add link to Vanilla Enchancements page
 - [x] Add link to ChatTriggers page
-- [ ] Determine which ChatTriggers modules I use
+- [x] Determine which ChatTriggers modules I use
+- [ ] Add explanation for ChatTriggers modules usage 
+- [ ] Add descriptions of mods/more information about mods in [info.md](https://github.com/yarnie13/hypixel/blob/main/mods/info.md) 
 
